@@ -1,0 +1,10 @@
+# Site settings
+title: Rest Yoga and Mindfulness Center
+email: julia@restymc.com
+phone: 208-656-4063
+description: Renew, Embrace, Strengthen, and Transform the body YOU have been given!.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "restymc.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
